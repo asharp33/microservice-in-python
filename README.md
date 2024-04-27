@@ -12,5 +12,7 @@ Jinja templating for Dynamic Web Pages
 Using Pip to Freeze Python Dependencies
 Building the docker image using Dockerfile
 Writing Docker Compose file
+    minikube ip  -> 192.168.49.2 on port ??
+    curl -f http://192.168.49.2:81/details
 Writing Kubernetes Manifest files for the application
 Creating Helm Chart
