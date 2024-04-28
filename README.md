@@ -17,3 +17,6 @@ Writing Docker Compose file
     curl -f http://192.168.49.2:81/details
 Writing Kubernetes Manifest files for the application
 Creating Helm Chart
+    helm template webapp
+    helm install web webapp
+    helm uninstall web
